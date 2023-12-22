@@ -1,0 +1,146 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body{
+    background-color:#361921;
+    
+}*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    
+    
+    
+}html 
+{
+    scroll-behavior: smooth;
+}.container{
+    margin: auto;
+    height: 100%;
+    width: 1900px;;
+    
+}
+
+.nav-div{
+    
+    
+    text-align: end;
+    width: 1980px;
+    height: 60px;
+    background-color: rgba(255, 254, 254, 0.582);
+    position: fixed;
+    z-index: 2;
+   
+    
+}.nav{
+    
+    text-decoration: none;
+    color:#361921;
+    font-family: 'Inter', sans-serif;
+    font-size: 25px;
+    position: relative;
+    right: 100px;
+    margin: auto;
+    padding: 25px;
+    position: relative;
+    top: 10px;
+    font-weight: bold;
+
+
+}
+
+.flex{
+    margin: auto;
+    display: flex;
+    
+
+
+}.picni-bb{
+    width: 550px;
+    height: auto;
+    position: relative;
+    left: 100px;
+    top: 50px;
+    z-index: 1;
+
+}
+
+.title-mid{
+    width: 1900px;
+    position: relative;
+    right: 250px;
+    top: 220px;
+    font-size: 50px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 1;
+  
+}.cong{
+    position: absolute;
+    left: 1000px;
+    top: 450px;
+    transform:rotate(40deg);   
+    width: 400px;
+}
+
+.shadow{
+    width: 1100px;
+    height: 800px;
+    background-color: #c5c3c3;
+    position: relative;
+    right: 370px;
+    top:95px;
+    
+}.flower{
+    position: absolute;
+    width: 200px;
+}
+
+/* SECOND PAGEEEE */
+
+.second-page{
+    position: relative;
+    top: 200px;
+    height: 900px;
+    width: auto;
+    background-color: #fbe3e8;
+    
+}.title-hello{
+
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 70px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: lighter;
+}.text-box1{
+    margin: auto;
+    font-size: 20px;
+    width: 1350px;
+    height: 700px;
+   
+
+}.text-1{
+    font-size: 35px;
+   line-height: 50px;
+
+}
+
+/*third PAGE*/
+
+.third-page{
+    
+    position: relative;
+    top: 450px;
+    height: 1080px;
+    width: auto;
+   
+   background-image: url(images/dagat.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}.lorem-text{
+    text-align: center;
+    position: relative;
+    font-size: 50px;
+    
+}

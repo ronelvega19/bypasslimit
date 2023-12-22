@@ -1,0 +1,127 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body{
+    background-color:#361921;
+    
+}*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    
+    
+}.container{
+    margin: auto;
+    height: 100%;
+    width: 1900px;;
+    
+}
+
+.nav-div{
+    
+    
+    text-align: end;
+    width: 1980px;
+    height: 60px;
+    background-color: rgba(255, 254, 254, 0.582);
+    position: fixed;
+    z-index: 2;
+   
+    
+}.nav{
+    
+    text-decoration: none;
+    color:#361921;
+    font-family: 'Inter', sans-serif;
+    font-size: 25px;
+    position: relative;
+    right: 100px;
+    margin: auto;
+    padding: 25px;
+    position: relative;
+    top: 10px;
+    font-weight: bold;
+
+
+}.about-div{
+
+    width: 1800px;
+    height: 600px;
+    background-color: #fbe3e8;
+    border-radius: 20px;
+    margin: auto;
+    position: relative;
+    top: 150px;
+}p{
+    font-size: 17px;
+    height: 30px;
+    margin-left: 20px;
+}.about-her{
+    border-radius: 20px;
+    background-color: rgba(240, 248, 255, 0.548);
+    width: 450px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    height: 500px;
+
+}.margin{
+    margin-left: 20px;
+}.about-her2{
+    border-radius: 20px;
+    background-color: rgba(240, 248, 255, 0.548);
+    width: 450px;
+    position: relative;
+    bottom: 450px;
+    
+    margin: auto;
+    height: 500px;
+    
+
+}.margin1{
+    margin-left: 18px;
+}.heig{
+    position: relative;
+    bottom: 10px;
+    height: 22px;
+}.about-her3{
+    border-radius: 20px;
+    background-color: rgba(240, 248, 255, 0.548);
+    width: 450px;
+    position: relative;
+    bottom: 950px;
+    left: 1300px;
+    height: 500px;
+    
+
+}.nd-div{
+    width: 1800px;
+    height: 500px;
+    border-radius: 20px;
+    
+    margin: auto;
+    position: relative;
+    top: 150px;
+    background-color: #ebf6f5;
+}.mess{
+    font-size: 25px;
+    margin: 70px;
+    position: relative;
+    bottom: 20px;
+   
+
+}.tomika{
+    position: relative;
+    top: 60px;
+    font-size: 25px;
+    left: 50px;
+}.mess-box{
+    margin: auto;
+    position: relative;
+    top: 80px;
+    background-color: antiquewhite;
+    width: 1500px;
+    height: 350px;
+    line-height: 35px;
+    border-radius: 20px;
+}
